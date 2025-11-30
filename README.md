@@ -47,6 +47,10 @@ or
 ```
 or
 ```console
+./build-debian-13.sh
+```
+or
+```console
 ./build-ubuntu-20.04.sh
 ```
 or
